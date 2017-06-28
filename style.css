@@ -1,0 +1,11 @@
+body {
+	background: rgb(85, 172, 238)
+	margin: 0 auto;
+	position: inline-block;
+	font-family: "Open Sans";
+}
+h1 {
+	font-size: 50px;
+	margin: 80px 20px;
+	text-align: center;
+}
