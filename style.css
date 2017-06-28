@@ -1,8 +1,7 @@
 body {
-	background: rgb(85, 172, 238);
+	background: #55ACEE;
 	margin: 0 auto;
-	display: inline-block;
-	font-family: 'Open Sans';
+	font-family: 'Open Sans', sans-serif;
 }
 h1 {
 	font-size: 50px;
