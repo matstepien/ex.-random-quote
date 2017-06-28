@@ -1,11 +1,21 @@
 body {
-	background: rgb(85, 172, 238)
+	background: rgb(85, 172, 238);
 	margin: 0 auto;
-	position: inline-block;
-	font-family: "Open Sans";
+	display: inline-block;
+	font-family: 'Open Sans';
 }
 h1 {
 	font-size: 50px;
 	margin: 80px 20px;
+	text-align: center;
+}
+.quote {
+	font-size: 30px;
+	margin: 20px 20px;
+	text-align: center;
+}
+.author {
+	font-size: 30px;
+	margin: 20px 20px;
 	text-align: center;
 }
