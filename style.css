@@ -10,14 +10,7 @@ h1 {
 	margin: 80px 20px;
 	text-align: center;
 }
-.quote {
-	font-size: 30px;
-	color: white;
-	text-shadow: 0 1px 3px black;
-	margin: 20px 20px;
-	text-align: center;
-}
-.author {
+.quote, .author {
 	font-size: 30px;
 	color: white;
 	text-shadow: 0 1px 3px black;
@@ -49,7 +42,6 @@ h1 {
 a, button {
 	display: inline-block;
 }
-
 .tweet {
 	font-size: 30px;
 	color: white;
